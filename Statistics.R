@@ -8,7 +8,6 @@ library(ez)
 library(psych)
 
 data <- read_excel("PANASData_Testable.xlsx")
-
 positive_items <- c(
   "Interested","Excited","Strong","Enthusiastic",
   "Proud","Alert","Inspired","Determined",
